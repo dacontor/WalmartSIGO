@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Walmart SIGO</string>
+
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>User</item>
+        <item>Home</item>
+        <item>Aplicaciones</item>
+        <item>Indicadores</item>
+        <item>Inbox</item>
+        <item>Logout</item>
+    </string-array>
+
+</resources>

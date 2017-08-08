@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr name="metaButtonBarStyle" format="reference" />
+        <attr name="metaButtonBarButtonStyle" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomPagerStrip">
+        <attr name="indicatorColor" format="reference|color" />
+        <attr name="isUnderlined" format="boolean" />
+        <attr name="fontSize" format="dimension" />
+        <attr name="fontColor" format="color" />
+    </declare-styleable>
+
+</resources>
